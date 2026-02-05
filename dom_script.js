@@ -85,42 +85,42 @@ var sections = [
                 album: "I Don't Wanna Wait",
                 artist: "David Guetta",
                 img: "public/images/songs/I Don't Wanna Wait.jpg",
-                song_url: "public/audios/songs/I Don't Wanna Wait.m4a"
+                song_url: "public/audios/song.mp3"
             },
             {
                 title: "LET GO",
                 album: "LET GO",
                 artist: "Central Cee",
                 img: "public/images/songs/let go.jpeg",
-                song_url: "public/audios/songs/LET GO.m4a"
+                song_url: "public/audios/song.mp3"
             },
             {
                 title: "Drugs From Amsterdam",
                 album: "Mau P",
                 artist: "Mau P",
                 img: "public/images/songs/Drugs From Amsterdam.jpg",
-                song_url: "public/audios/songs/Drugs From Amsterdam.m4a"
+                song_url: "public/audios/song.mp3"
             },
             {
                 title: "Element",
                 album: "Meet The Woo 2",
                 artist: "Pop Smoke",
                 img: "public/images/songs/Element.jpg",
-                song_url: "public/audios/songs/Element.m4a"
+                song_url: "public/audios/song.mp3"
             },
             {
                 title: "Ric Flair Drip (with Metro Boomin",
                 album: "Without Warning",
                 artist: "Offset & Metro Boomin",
                 img: "public/images/songs/Ric Flair Drip (with Metro Boomin.jpeg",
-                song_url: "public/audios/songs/Ric Flair Drip (with Metro Boomin.m4a"
+                song_url: "public/audios/song.mp3"
             },
             {
                 title: "Tití Me Preguntó",
                 album: "Un Verano Sin Ti",
                 artist: "Bad Bunny",
                 img: "public/images/songs/Tití Me Preguntó.jpg",
-                song_url: "public/audios/songs/Tití Me Preguntó.m4a"
+                song_url: "public/audios/song.mp3"
             }
 
         ]

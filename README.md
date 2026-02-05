@@ -2,6 +2,11 @@
 
 A simple web-based clone of the Spotify music player interface, built using vanilla HTML, CSS, and JavaScript.
 
+## Demo
+[Live Demo](https://spotify-clone-7ca84.web.app)
+
+
+
 ## Features
 - Functional audio player with play, pause, and seek capabilities.
 - Responsive design for various screen sizes.
